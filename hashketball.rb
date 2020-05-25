@@ -17,7 +17,17 @@ def game_hash
           :away => {:team_name => "string",
                     :colors => "string", 
                     :players => [
-            {},]}
+                      {:player_name => int,
+                      :number => int,
+                      :shoe => int,
+                      :points => int,:
+                      :rebounds => int,
+                      :assists => int,
+                      :steals => int,
+                      :blocks => int,
+                      :slam_dunks => int}
+                      ]
+      }, 
     
   }
   binding.pry 
