@@ -6,7 +6,7 @@ def game_hash
                       {:player_name => int,
                       :number => int,
                       :shoe => int,
-                      :points => int,:
+                      :points => int,
                       :rebounds => int,
                       :assists => int,
                       :steals => int,
@@ -20,7 +20,7 @@ def game_hash
                       {:player_name => int,
                       :number => int,
                       :shoe => int,
-                      :points => int,:
+                      :points => int,
                       :rebounds => int,
                       :assists => int,
                       :steals => int,
