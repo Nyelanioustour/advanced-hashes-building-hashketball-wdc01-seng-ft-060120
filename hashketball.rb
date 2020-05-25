@@ -1,6 +1,6 @@
 require 'pry'
 def game_hash
-  hash = {:home => {:team_name => "string", 
+  hash = {:home => {:team_name => "Brooklyn Nets", 
                     :colors => "string", 
                     :players => [
                       {:player_name => 0,
