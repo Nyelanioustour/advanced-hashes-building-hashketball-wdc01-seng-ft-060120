@@ -14,7 +14,10 @@ def game_hash
                       :slam_dunks => int}
                       ]
       }, 
-          :away => {:team_name => "string", :colors => "string", :players => [{},]}
+          :away => {:team_name => "string",
+                    :colors => "string", 
+                    :players => [
+            {},]}
     
   }
   binding.pry 
