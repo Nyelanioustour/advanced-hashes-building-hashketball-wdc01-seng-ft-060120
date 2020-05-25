@@ -11,7 +11,7 @@ def game_hash
                       :assists => 0,
                       :steals => 0,
                       :blocks => 0,
-                      :slam_dunks => 0}
+                      :slam_dunks => 0},
                       
                       {:player_name => 0,
                       :number => 0,
@@ -21,7 +21,8 @@ def game_hash
                       :assists => 0,
                       :steals => 0,
                       :blocks => 0,
-                      :slam_dunks => 0}
+                      :slam_dunks => 0},
+                    
                       {:player_name => 0,
                       :number => 0,
                       :shoe => 0,
@@ -30,7 +31,7 @@ def game_hash
                       :assists => 0,
                       :steals => 0,
                       :blocks => 0,
-                      :slam_dunks => 0}
+                      :slam_dunks => 0},
                       
                       {:player_name => 0,
                       :number => 0,
@@ -40,7 +41,7 @@ def game_hash
                       :assists => 0,
                       :steals => 0,
                       :blocks => 0,
-                      :slam_dunks => 0}
+                      :slam_dunks => 0},
                      
                       {:player_name => 0,
                       :number => 0,
