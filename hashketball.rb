@@ -20,12 +20,12 @@ def game_hash
                       {:player_name => 0,
                       :number => 0,
                       :shoe => 0,
-                      :points => int,
-                      :rebounds => int,
-                      :assists => int,
-                      :steals => int,
-                      :blocks => int,
-                      :slam_dunks => int}
+                      :points => 0,
+                      :rebounds => 0,
+                      :assists => 0,
+                      :steals => 0,
+                      :blocks => 0,
+                      :slam_dunks => 0}
                       ]
       }, 
     
